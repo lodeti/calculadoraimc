@@ -1,0 +1,15 @@
+#calculo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(208, 238, 162);
+    border: solid 2px green;
+    padding: 5px;
+    width: fit-content;
+}
+
+h2{
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+}
